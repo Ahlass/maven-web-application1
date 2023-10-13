@@ -95,13 +95,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url>http://18.224.171.153:8181/mylandmarktech/repository/maven-webapp1/</url>
+	      <url>http://18.219.164.233:8181/mylandmarktech/repository/maven-webapp1/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://18.224.171.153:8181/mylandmarktech/repository/maven-webapp2/</url>
+	      <url>http://18.219.164.233:8181/mylandmarktech/repository/maven-webapp2/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
